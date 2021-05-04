@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Saimon
 
-[![Github](https://img.shields.io/github/followers/mrfoe7?label=Follow&style=social)](https://github.com/mfroe7)
+[![Github](https://img.shields.io/github/followers/mrfoe7?label=Follow&style=social)](https://github.com/mrfoe7)
 <img src="https://badges.pufler.dev/visits/mrfoe7/mrfoe7?style=flat-square&color=6875f5&logo=github" />
 
 I ❤ Open Source and [Go](https://golang.org).
