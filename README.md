@@ -5,7 +5,7 @@ I ❤ Open Source and [Go](https://golang.org).
 Support me and my projects:
 
 - Bitcoin 13KyxQiWRw4nErWE8hJDyCaiUYEcercFJv 
-- Etherium 0x67f088BEfb78189fab0B13509725f91e441b7DA8
+- Ethereum 0x67f088BEfb78189fab0B13509725f91e441b7DA8
 - Zcash t1VpREBkX58VaPze3RMERr1vPSYzymtozEw 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshaplygin&hide=html&theme=vue-dark)
