@@ -4,9 +4,11 @@ I ❤ Open Source and [Go](https://golang.org).
 
 Support me and my projects:
 
-![Bitcoin](./images/btc.png) 13KyxQiWRw4nErWE8hJDyCaiUYEcercFJv <br/>
-![Ethereum](./images/eth.png) 0x67f088BEfb78189fab0B13509725f91e441b7DA8 <br/>
-![Zcash](./images/zec.png) t1VpREBkX58VaPze3RMERr1vPSYzymtozEw <br/>
+| Имя файла | Описание |
+|-----------|----------|
+| ![Bitcoin](./images/btc.png)  | bc1q6332gp380m4ktyau3ggthqwvspucnx5hffpht0 |
+| ![Ethereum](./images/eth.png)  | 0xDdA21e78da9349Bb8ABb15431F6a6d971a8353eE |
+| ![Zcash](./images/zec.png)  | t1MAH2v35HZvoWe58z3X87yWFFCE7jZM3Ew |
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshaplygin&hide=html&theme=vue-dark)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sshaplygin&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
