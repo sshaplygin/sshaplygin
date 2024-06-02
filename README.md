@@ -4,7 +4,7 @@ I ❤ Open Source and [Go](https://golang.org).
 
 Support me and my projects:
 
-| Имя файла | Описание |
+| Coin | Wallet |
 |-----------|----------|
 | ![Bitcoin](./images/btc.png)  | bc1q6332gp380m4ktyau3ggthqwvspucnx5hffpht0 |
 | ![Ethereum](./images/eth.png)  | 0xDdA21e78da9349Bb8ABb15431F6a6d971a8353eE |
