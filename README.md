@@ -1,9 +1,9 @@
 # Hi there, I'm Sam (he/him) 👋
 
 <p align="center">
-  <a href="https://t.me/sam_shaplygin" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sshaplygin/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://leetcode.com/u/sshaplygin/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="https://sshaplygin.dev/cc/KQeyB4" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="https://sshaplygin.dev/cc/P81sU1" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://sshaplygin.dev/cc/zKKBK2" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
 
 I'm a Senior Software Engineer and using Golang 🐹. All opinions are my own
