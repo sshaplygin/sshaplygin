@@ -8,10 +8,8 @@
 </p>
 
 I'm a Senior Software Engineer and using Golang 🐹 and Rust 🦀. 
-
 My interests make a smart appearance in technology, travels and ACG.
-
-All opinions are my own. 
+All opinions are my own.
 
 <hr>
 
@@ -19,12 +17,12 @@ All opinions are my own.
 
 ### [Overseas bot](https://t.me/overseas_point_bot)
   This is the guy-bot 🤖 who automatically configures VPN servers in any available country.
-### [Ai speech track bot](https://t.me/ya_ai_contest_bot)
+### [AI speech track bot](https://t.me/ya_ai_contest_bot)
   Cat-Bot 🐱: I track your income and expenses using your voice. (Russian only)
 ### [urlshortener](https://github.com/sshaplygin/urlshortener/)
   Yet another URL shortener by Rust and YDB row and column oriented storages
 ### [docs-code](https://github.com/sshaplygin/docs-code)
-  Go parser for ru-based documents codes validation and generation.
+  Go parser for ru-based documents codes validation and generation
 
 ## 📊 Statistics
 
@@ -33,8 +31,7 @@ All opinions are my own.
 
 ## 🧰 Technical Skills
 
-### 🧱 Languages
-
+🧱 Languages
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
@@ -44,7 +41,7 @@ All opinions are my own.
 </p>
 
 
-### 🛠️ Technology
+🛠️ Technology
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
